@@ -1,13 +1,13 @@
-Employee Management System
+##Employee Management System
 This JavaFX application allows users to manage a list of employees and their salaries. The system supports three types of employees: Full-time, Part-time, and Contractors, each with a unique salary calculation method. The application provides a graphical interface to view, add, calculate, and remove employees from the list.
 
-Features
+##Features
 Add employees with specific attributes:
 Full-Time: Fixed annual salary.
 Part-Time: Hourly wage and hours worked.
 Contractor: Hourly rate and maximum hours per month.
 Display employees in a table:
-Name
+##Name
 Type (Full-Time, Part-Time, Contractor)
 Calculated Salary
 Validate inputs to ensure correctness (e.g., positive values for salary and hours).
@@ -39,3 +39,4 @@ Name: Mark Johnson
 Type: Contractor
 Hourly Rate: 25
 Max Hours: 100
+![scr 11](https://github.com/user-attachments/assets/8d9e3e89-e9af-435c-b8ec-acbe973d3e69)
